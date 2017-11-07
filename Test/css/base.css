@@ -1,0 +1,19 @@
+.prev, .next, .parrafo, .imagen{
+	width: 50vw;							
+}
+
+.image{
+	width: 50vh;
+}
+
+.next{
+	text-align: right;
+}
+
+.content{
+	height: 80vh;
+}
+
+img{
+	height: 40vh;
+}
